@@ -65,5 +65,4 @@ def get_messages(room_id):
 
 # get_rooms()
 # ethereum research
-# messages = get_messages('55fe873b0fc9f982beb13b83')
-to_csv('55fe873b0fc9f982beb13b83-messages.txt')
+messages = get_messages('55fe873b0fc9f982beb13b83')
